@@ -19,7 +19,6 @@ It's a website that has been designed to mimic the design of the popular Indian 
 <br>
 
 ## 📬 Connect With Me
-
-- **LinkedIn** - [Indra Shekhar](https://www.linkedin.com/in/indra-shekhar/)
-- **Twitter** - [@Indra684](https://twitter.com/Indra684)
+- **LinkedIn** - [Souradip-Porua](https://www.linkedin.com/in/souradip-porua-a49599192/)
+- **Twitter** - [@porua_souradip](https://twitter.com/porua_souradip)
 # RazorpayClone
