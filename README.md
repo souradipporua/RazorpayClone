@@ -6,7 +6,7 @@ It's a website that has been designed to mimic the design of the popular Indian 
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://razorpay-copy.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://souradipporua.github.io/RazorpayClone/">**Visit Now** 🚀</a>
 
 <br>
 
